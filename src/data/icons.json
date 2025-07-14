@@ -1,0 +1,29 @@
+{
+  "special": [
+    { "name": "Promotions", "file": "promotions_icon.svg" },
+    { "name": "VIP Club", "file": "vip_icon.svg" },
+    { "name": "Tournaments", "file": "tournaments_icon.svg" }
+  ],
+  "games": [
+    { "name": "Slots", "file": "slots_icon.svg" },
+    { "name": "Blackjack", "file": "blackjack_icon.svg" },
+    { "name": "Roulette", "file": "roulette_icon.svg" },
+    { "name": "Braccarat", "file": "braccarat_icon.svg" },
+    { "name": "Live Dealers", "file": "live_dealers_icon.svg" },
+    { "name": "Crash", "file": "crash_icon.svg" },
+    { "name": "Dice", "file": "dice_icon.svg" },
+    { "name": "Video Poker", "file": "video_poker_icon.svg" }
+  ],
+  "quickAccess": [
+    { "name": "Favorites", "file": "favorites_icon.svg" },
+    { "name": "Recent", "file": "recent_icon.svg" }
+  ],
+  "categories": [
+    { "name": "Collections", "file": "collections_icon.svg" },
+    { "name": "Providers", "file": "providers_icon.svg" }
+  ],
+  "settings": [
+    { "name": "Support", "file": "support_icon.svg" },
+    { "name": "English", "file": "language_icon.svg" }
+  ]
+}

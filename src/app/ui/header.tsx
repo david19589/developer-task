@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Header() {
   return (
-    <div className="flex items-center justify-between bg-[#152535] px-2.5 py-3.5">
+    <div className="flex items-center justify-between bg-[#152535] px-2.5 py-3.5 mb-2.5">
       <span className="lg:w-[4.6875rem] lg:h-10 flex w-15 h-8 bg-[#253241] rounded-lg" />
       <div className="lg:gap-1.25 flex items-center gap-5">
         <div className="lg:gap-3.75 flex bg-[#10202D] gap-5 rounded-md border-1 border-[#192C40]">
